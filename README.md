@@ -7,13 +7,13 @@
 Large Language Models(LLMs) are increasing in popularity and use.  These machine-learning AI systems introduce new attack vectors for penetration testers and risk to an organization.  
 
 The primary risks introduced by the LLMs include, but are not limited to:
-    - Contaminating the model with inaccurate data
-    - Extracting secrets
-    - Causing the system to divulge dangerous information
-    - Causing the system to perform an action it would normally not
-    - Gaining access to another user's data
+- Contaminating the model with inaccurate data
+- Extracting secrets
+- Causing the system to divulge dangerous information
+- Causing the system to perform an action it would normally not
+- Gaining access to another user's data
 
-This guide will contain common attack methods to utilize when assessing one of these systems.
+This guide will contain common LLM injections attacks to utilize when assessing one of these systems.
 
 ## Methods
 
